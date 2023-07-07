@@ -31,6 +31,8 @@ const CategoryPage: FC<CategoryPageProps> = async ({
   const colors = await getColors()
   const category = await getCategory(params.categoryId)
 
+  console.log(category)
+
   return (
     <div className='bg-white'>
       <Container>
