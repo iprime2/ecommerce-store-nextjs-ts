@@ -4,9 +4,8 @@ import { useEffect, useState } from 'react'
 
 import Container from '@/components/ui/Container'
 import useCart from '@/hooks/useCart'
-
-import Summary from './components/Summary'
-import CartItem from './components/CartItem'
+import CartItem from '@/components/CartItem'
+import Summary from '@/components/Summary'
 
 export const revalidate = 0
 
