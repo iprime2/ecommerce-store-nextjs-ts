@@ -1,8 +1,8 @@
 # Full Stack E-Commerce Admin with Next.js 13, Clerk, Stripe, App Router, React, Shadcn UI, Tailwind, Prisma, MySQL, Planet Scale, NextAuth 2023
 
-#### [https://sushil-ecommerce-store.vercel.app](https://sushil-ecommerce-store.vercel.app/)
+#### [https://sushil-ecommerce-store.vercel.app](https://sushil-ecommerce-store.vercel.app)
 
-### MAKE SURE YOU HAVE [ADMIN](https://sushil-ecommerce-store.vercel.app/) SETUP FIRST!
+### MAKE SURE YOU HAVE [ADMIN](https://github.com/iprime2/ecommerce-store-nextjs-ts) SETUP FIRST!
 
 ### Features:
 
