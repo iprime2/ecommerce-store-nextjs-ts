@@ -1,4 +1,4 @@
-# Full Stack E-Commerce Store with Next.js 13, Stripe, App Router, React, Typescript and Tailwind.
+# Full Stack E-Commerce Store with Next.js 13, Stripe, App Router, Typescript, and Tailwind.
 
 #### [https://sushil-ecommerce-store.vercel.app](https://sushil-ecommerce-store.vercel.app)
 
@@ -8,8 +8,13 @@
 
 - Users can create their own online e-commerce store and manage the data from the admin
 - The data will be fetched from admin store APIs
-- Users can search for specific products or use filters to narrow down the product selection
+- Users can use filters to narrow down the product selection or search for specific products.
 - Stripe checkout
+- Page loading state
+- Tailwind design
+- Tailwind animations and effects
+- Full responsiveness
+- Server error handling using react-toast
 
 ![Screenshot](demo.png)
 
